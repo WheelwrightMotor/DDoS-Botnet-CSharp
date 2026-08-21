@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src\HydraNet.Bot\HydraNet.Bot.csproj" />
+  <Project Path="src\HydraNet.C2\HydraNet.C2.csproj" />
+  <Project Path="Build.csproj" />
+</Solution>
